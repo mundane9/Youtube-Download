@@ -12,7 +12,7 @@ You need winget (the Windows package manager). It comes with Windows 10 and 11, 
 winget --version
 ```
 
-If you get an error, install **App Installer** from the Microsoft Store, then try again. The script uses winget to install yt-dlp and FFmpeg for you.
+The script uses winget to install yt-dlp and FFmpeg for you.
 
 ## Use
 
